@@ -4,6 +4,7 @@ Welcome to my Github Page
 ### Visualize My Profile:
 
 About Me:
+
 I am Jemimah Beulah Panga. I'm an aspiring Data Scientist| Data Analyst. I am always curious to learn something new.
 
 - 🔭 I’m currently working on Data Science projects...
